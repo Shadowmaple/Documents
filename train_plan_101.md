@@ -5,9 +5,9 @@
 + 语言类型
   + C
   + go
-  + Markdown
 + 工具类型
   + vim
+  + Markdown
   + linux command
   + git
 + 数据库
@@ -27,7 +27,7 @@
 
 
 
-## Plan A
+## 计划
 
 ### week5
 
@@ -74,4 +74,6 @@ ps：若不算国庆，仅3周时间
 
 ### 冬令营
 
-+ ##### MiniProject
++ ###### MiniProject
+
+  
