@@ -15,11 +15,11 @@
   + mysql
   + 概念、设计理念
 + Web
+  + 模拟登陆
   + API
   + RESTful
-  + gin框架
-
-+ 其它
++ gin框架
++ 其它可选
   + 面向对象
   + 正则表达式
   + 异步
@@ -74,58 +74,4 @@ ps：若不算国庆，仅3周时间
 
 ### 冬令营
 
-+ MiniProject
-
-
-
-## Plan B
-
-### week5
-
-- 装Linux系统
-- 学Linux基本命令
-- git基本操作（会推代码）
-- 学Markdown基本语法
-
-### week6——week10
-
-- 学C语言
-- 刷题
-- week10安排一次测验
-
-### week11
-
-+ 学golang基本语法
-+ golang语法练习
-
-### week12
-
-+ 考核（C+go）
-
-### week13 -- 14
-
-+ 学习golang
-+ 并发
-+ 异步
-
-### week15
-
-+ 数据库概念
-+ 数据库设计
-
-### week16 -- 17
-
-+ Mysql
-+ sql
-
-
-
-### 冬令营
-
-+ RESTful API
-
-+ gin框架
-
-+ web开发
-
-  
++ ##### MiniProject
