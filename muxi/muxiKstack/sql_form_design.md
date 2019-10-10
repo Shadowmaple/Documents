@@ -16,20 +16,23 @@
 | comment_num       | int          | 一级评论数           |
 | tags              | varchar(255) | 标签id列表，逗号分隔 |
 | is_valid          | boolean      | 是否被折叠           |
+| time              | varchar(20)  | 评课时间（时间戳）   |
+
+
 
 ## comment 评论
 
-| 字段              | 类型        | 备注             |
-| ----------------- | ----------- | ---------------- |
-| comment_id        | varchar(50) | 评论id           |
-| content           | text        | 评论内容         |
-| like_num          | int         | 点赞数           |
-| time              | var(20)     | 评课时间，时间戳 |
-| user_id           | varchar(50) | 评论用户id       |
-| comment_target_id | varchar(50) | 评论对象id       |
-| parent_id         | varchar(50) | 父评论id         |
-| is_top            | boolean     | 是否是一级评论   |
-| subcomment_num    | int         | 子评论数         |
+| 字段              | 类型        | 备注               |
+| ----------------- | ----------- | ------------------ |
+| comment_id        | varchar(50) | 评论id             |
+| content           | text        | 评论内容           |
+| like_num          | int         | 点赞数             |
+| time              | var(20)     | 评论时间（时间戳） |
+| user_id           | varchar(50) | 评论用户id         |
+| comment_target_id | varchar(50) | 评论对象id         |
+| parent_id         | varchar(50) | 父评论id           |
+| is_top            | boolean     | 是否是一级评论     |
+| subcomment_num    | int         | 子评论数           |
 
 ## course_tag 评课标签
 
